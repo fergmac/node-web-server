@@ -1,3 +1,3 @@
 #Node Web Server
 
-to run: nodemon server.js
+to run: npm start
